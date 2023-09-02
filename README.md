@@ -1,4 +1,4 @@
-# UDEMY-COURSRS-ANALYSIS-AND-PREDICTION
+# UDEMY-COURSES-ANALYSIS-AND-PREDICTION
 
 Description:
 In this project, I conducted a comprehensive analysis of a dataset containing information about Udemy courses. 
